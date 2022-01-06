@@ -3,26 +3,26 @@
     {
         "name": "Bodega Marín",
         "address": "Milà i Fontanals 72",
-	      "city": "Barcelona",
-	      "speciality": "Croquetes",
+	"city": "Barcelona",
+	"speciality": "Croquetes",
       	"phone": "690701616",
         "web": "https://www.instagram.com/bodegamarin"
     },
     {
         "name": "Bar Bodega Carol",
         "address": "Aragó 558",
-	      "city": "Barcelona",
-	      "speciality": "Madejas",
+	"city": "Barcelona",
+	"speciality": "Madejas",
       	"phone": "932451199",
         "web": "https://www.instagram.com/bodegacarol"
     },
     {
         "name": "Bodega Montferry",
         "address": "Violant d'Hongria 105",
-	      "city": "Barcelona",
-	      "speciality": "Entrepans",
+	"city": "Barcelona",
+	"speciality": "Entrepans",
       	"phone": "931629636",
-        "web": "https://www.instagram.com/bodegacarol"    
+        "web": "https://www.instagram.com/bodegamontferry"    
     }
     ]
 }
