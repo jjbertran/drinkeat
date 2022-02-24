@@ -1,8 +1,8 @@
 {
     "places":[
     {
-        "name": "Bodega Marín",
-        "address": "Milà i Fontanals 72",
+        "name": "Bodega Marin",
+        "address": "Mila i Fontanals 72",
 	"city": "Barcelona",
 	"speciality": "Croquetes",
       	"phone": "690701616",
@@ -10,7 +10,7 @@
     },
     {
         "name": "Bar Bodega Carol",
-        "address": "Aragó 558",
+        "address": "Arago 558",
 	"city": "Barcelona",
 	"speciality": "Madejas",
       	"phone": "932451199",
@@ -18,7 +18,7 @@
     },
     {
         "name": "Bodega Montferry",
-        "address": "Violant d'Hongria 105",
+        "address": "Violant Hongria 105",
 	"city": "Barcelona",
 	"speciality": "Entrepans",
       	"phone": "931629636",
