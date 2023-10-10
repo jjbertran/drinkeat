@@ -1,37 +1,37 @@
 {
-    "places":[
-    {
-        "name": "Bodega Marin",
-        "address": {
-	   "street": "Mila i Fontanals 72",
-	   "city": "Barcelona",
-	   "zipcode": "08012"
-	 },
-	"speciality": "Croquetes",
-      	"phone": "690701616",
-        "web": "https://www.instagram.com/bodegamarin"
-    },
-    {
-        "name": "Bar Bodega Carol",
-        "address": {
-	   "street": "Arago 558",
-	   "city": "Barcelona",
-	   "zipcode": "08026"
-	},
-	"speciality": "Madejas",
-      	"phone": "932451199",
-        "web": "https://www.instagram.com/bodegacarol"
-    },
-    {
-        "name": "Bodega Montferry",
-        "address": {
-	   "street": "Serra i Arola 13",
-	   "city": "Barcelona",
-	   "zipcode": "08028"
-	},
-	"speciality": "Entrepans",
-      	"phone": "931629636",
-        "web": "https://www.instagram.com/bodegamontferry"    
-    }
+    "places": [
+        {
+            "name": "Bodega Marin",
+            "address": {
+                "street": "Mila i Fontanals 72",
+                "city": "Barcelona",
+                "zipcode": "08012"
+            },
+            "speciality": "Croquetes",
+            "phone": "690701616",
+            "web": "https://www.instagram.com/bodegamarin"
+        },
+        {
+            "name": "Bar Bodega Carol",
+            "address": {
+                "street": "Arago 558",
+                "city": "Barcelona",
+                "zipcode": "08026"
+            },
+            "speciality": "Madejas",
+            "phone": "932451199",
+            "web": "https://www.instagram.com/bodegacarol"
+        },
+        {
+            "name": "Bodega Montferry",
+            "address": {
+                "street": "Serra i Arola 13",
+                "city": "Barcelona",
+                "zipcode": "08028"
+            },
+            "speciality": "Entrepans",
+            "phone": "931629636",
+            "web": "https://www.instagram.com/bodegamontferry"
+        }
     ]
 }
